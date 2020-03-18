@@ -1,0 +1,1 @@
+{ "nomeAula" : "Aula de acceso a datos","profesor" : { "nome" : "profNome1","apelidos" : "profApelidos1","idade" : 55 },"alumnos" : [ { "nome" : "nome1","apelidos" : "apelidos1","idade" : 11 } , { "nome" : "nome2","apelidos" : "apelidos2","idade" : 22 } , { "nome" : "nome3","apelidos" : "apelidos3","idade" : 33 } , { "nome" : "nome4","apelidos" : "apelidos4","idade" : 44 } ] }

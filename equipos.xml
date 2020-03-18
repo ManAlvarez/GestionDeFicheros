@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tendas>
+    <tenda>
+        <nome>SantiagoPCs</nome>
+        <equipos>
+            <equipo>
+                <id>1</id>
+                <descripcion>Ordenador portatil con disco duro SSD de 100 GB</descripcion>
+                <prezo>500</prezo>
+                <cantidade>10</cantidade>
+            </equipo>
+            <equipo>
+                <id>2</id>
+                <descripcion>Ordenador de sobremesa de 16 GB de RAM</descripcion>
+                <prezo>300</prezo>
+                <cantidade>14</cantidade>
+            </equipo>
+            <equipo>
+                <id>3</id>
+                <descripcion>MacBook de 13 pulgadas</descripcion>
+                <prezo>1200</prezo>
+                <cantidade>2</cantidade>
+            </equipo>
+        </equipos>
+    </tenda>
+    <tenda>
+        <nome>PontevedraPCs</nome>
+        <equipos>
+            <equipo>
+                <id>4</id>
+                <descripcion>Ordenador portatil con pantalla de 17 pulgadas</descripcion>
+                <prezo>800</prezo>
+                <cantidade>3</cantidade>
+            </equipo>
+            <equipo>
+                <id>6</id>
+                <descripcion>NAS de 1 TB de capacidade</descripcion>
+                <prezo>450</prezo>
+                <cantidade>8</cantidade>
+            </equipo>
+        </equipos>
+    </tenda>
+</tendas>
+

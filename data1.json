@@ -1,0 +1,30 @@
+{
+  "alumnos": [
+    {
+      "nome": "nome1",
+      "idade": 11,
+      "apelidos": "apelidos1"
+    },
+    {
+      "nome": "nome2",
+      "idade": 22,
+      "apelidos": "apelidos2"
+    },
+    {
+      "nome": "nome3",
+      "idade": 33,
+      "apelidos": "apelidos3"
+    },
+    {
+      "nome": "nome4",
+      "idade": 44,
+      "apelidos": "apelidos4"
+    }
+  ],
+  "profesor": {
+    "nome": "profNome1",
+    "idade": 55,
+    "apelidos": "profApelidos5"
+  },
+  "nomeAula": "Aula de acceso a datos"
+}
